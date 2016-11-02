@@ -11,7 +11,7 @@ Sample website with plenty of files for Git training demos
 this is a simple web project, deployment can be on any web server or even local file system
 
 ## How To Contribute
-
+Please fork this repo and the issue PULL Requests for review
 
 ## Copyright
 2014 Git.Training
